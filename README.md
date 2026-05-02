@@ -8,7 +8,7 @@ This repository contains coursework, assignments, and code from my second semest
 
 
 And my PRNN Github Repository for all 3 Assignments:
-📓 **[PRNN Github Repository](https://github.com/ExusBurn/MLStuff)**
+📓 **[PRNN Github Repository](https://github.com/ExusBurn/PRNN_Assignments)**
 
 The notes are the primary study resource for all courses. This repository is best used alongside them — particularly for PRNN, where the assignments show how the theory from lectures translates into working implementations.
 
