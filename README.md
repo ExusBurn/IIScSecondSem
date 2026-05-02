@@ -47,7 +47,7 @@ Assignments on classical numerical methods for ODEs and PDEs.
 
 ### 💬 Natural Language Processing (NLP)
 
-Course notes available in the OneNote linked above. I'll upload the assignments later maybe
+Course notes available in the OneNote linked above. It's not that relevant, since most things are just fill in the blanks-related code that mostly everyone can do easily. However if you are having issues with converting class slides to notes, please feel free to see all the relevant things within the Lecture Notes for Sem 2 for your benefit :).
 
 ---
 
