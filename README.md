@@ -5,6 +5,11 @@ This repository contains coursework, assignments, and code from my second semest
 
 📓 **[Lecture Notes — Semester 2](https://indianinstituteofscience-my.sharepoint.com/:o:/r/personal/aadithyaiyer_iisc_ac_in/_layouts/15/Doc.aspx?sourcedoc=%7B36D6A089-B241-460A-B501-77813EC1F518%7D&file=Lecture%20Notes%20Sem%202&action=edit&mobileredirect=true&wdorigin=Sharepoint)**
 
+
+
+And my PRNN Github Repository for all 3 Assignments:
+📓 **[PRNN Github Repository](https://github.com/ExusBurn/MLStuff)**
+
 The notes are the primary study resource for all courses. This repository is best used alongside them — particularly for PRNN, where the assignments show how the theory from lectures translates into working implementations.
 
 ---
