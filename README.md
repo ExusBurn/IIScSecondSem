@@ -1,7 +1,7 @@
 # IISc Second Semester — 2026
 ### Aadithya Iyer | Department of Computational and Data Sciences, IISc Bangalore
 
-This repository contains coursework, assignments, and code from my second semester at IISc. For detailed lecture notes across all courses, see my OneNote:
+This repository contains coursework, assignments, and code from my second semester at IISc. I took Introduction to NLP, NSDE, PP, and PRNN. For detailed lecture notes across all courses, see my OneNote:
 
 📓 **[Lecture Notes — Semester 2](https://indianinstituteofscience-my.sharepoint.com/:o:/r/personal/aadithyaiyer_iisc_ac_in/_layouts/15/Doc.aspx?sourcedoc=%7B36D6A089-B241-460A-B501-77813EC1F518%7D&file=Lecture%20Notes%20Sem%202&action=edit&mobileredirect=true&wdorigin=Sharepoint)**
 
@@ -47,7 +47,7 @@ Assignments on classical numerical methods for ODEs and PDEs.
 
 ### 💬 Natural Language Processing (NLP)
 
-Course notes available in the OneNote linked above. No code assignments in this repository yet.
+Course notes available in the OneNote linked above. I'll upload the assignments later maybe
 
 ---
 
